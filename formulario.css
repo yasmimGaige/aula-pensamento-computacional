@@ -1,0 +1,15 @@
+form label {
+display:block;
+ font-size: 20px;
+ color: pink;
+margin: 0 0 10px;
+
+}
+
+
+.pagina {
+display: block;
+  margin: 0 0 20px;
+   padding: 20px 30px;
+
+}
